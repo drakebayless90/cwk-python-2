@@ -3,7 +3,7 @@ def main():
     #variable = input("what is your name")
     #print(variable)
 
-    four()
+    five()
 
 def two():
     x=10
@@ -26,6 +26,19 @@ def four():
         print("your number is odd")
     if number %2 == 0:
         print("your number is even")
+
+def five():
+    my_list = [1, 2, 3, 4, 5]
+    print my_list[0]
+    print my_list[1]
+    print my_list[2]
+    print my_list[3]
+    print my_list[4]
+
+def six():
+    
+
+
 
 
 if __name__ == "__main__":
