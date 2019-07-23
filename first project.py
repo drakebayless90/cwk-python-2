@@ -3,7 +3,7 @@ def main():
     #variable = input("what is your name")
     #print(variable)
 
-    five()
+    three()
 
 def two():
     x=10
@@ -29,11 +29,11 @@ def four():
 
 def five():
     my_list = [1, 2, 3, 4, 5]
-    print my_list[0]
-    print my_list[1]
-    print my_list[2]
-    print my_list[3]
-    print my_list[4]
+    print (my_list[0])
+    print (my_list[1])
+    print (my_list[2])
+    print (my_list[3])
+    print (my_list[4])
 
 def six():
 
